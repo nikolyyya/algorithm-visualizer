@@ -136,7 +136,7 @@ python main.py
 ## Архитектура
 
 ```text
-practice_03/
+algorithm_visualizer/
 ├── main.py
 ├── algorithms.py
 ├── visualizer.py
